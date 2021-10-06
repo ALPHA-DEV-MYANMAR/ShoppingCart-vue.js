@@ -23,3 +23,5 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # ShoppingCart-vue.js
+# Shop-vuejs
+# Shop-vuejs
